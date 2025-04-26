@@ -1,0 +1,8 @@
+[tools]
+scaleway-cli="2.39.0"
+terraform="1.11.4"
+awscli="2.22.35"
+gomplate = "v3.11.5"
+
+[env]
+_.source = { value = "./.envrc", tools = true }
