@@ -1,0 +1,5 @@
+[tools]
+awscli="2.22.35"
+
+[env]
+_.source = { value = "./.envrc", tools = true }
