@@ -1,6 +1,6 @@
 # Open WebUI deployment playground on Scaleway instance
 
-This folder contains a deployment script to deploy [Scaleway Virtual Instances](https://www.scaleway.com/en/virtual-instances/) running [Open WebUI](https://github.com/open-webui/open-webui) connected to [Scaleway Generative APIs](https://www.scaleway.com/fr/generative-apis/), based on `docker-compose.yml` method.
+This folder contains a deployment script for installing [Open WebUI](https://github.com/open-webui/open-webui) on [Scaleway Virtual Instances](https://www.scaleway.com/en/virtual-instances/). The deployment connects Open WebUI to [Scaleway Generative APIs](https://www.scaleway.com/en/generative-apis/) and uses the `docker-compose.yml` method.
 
 Although this is not necessary for a minimalist deployment, I chose here to configure the following options:
 
