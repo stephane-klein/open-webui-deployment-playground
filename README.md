@@ -1,5 +1,7 @@
 # Open WebUX deployment playground
 
+Note about this project in french: https://notes.sklein.xyz/Projet%2028/
+
 This repository contains:
 
 - [`./deployment-playground/`](./deployment-playground/): a local deployment playground for [Open WebUI](https://github.com/open-webui/open-webui) connected to [Scaleway Generative APIs](https://www.scaleway.com/fr/generative-apis/), based on `docker-compose.yml` method
