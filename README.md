@@ -1,4 +1,4 @@
-# Open WebUX deployment playground
+# Open WebUI deployment playground
 
 Note about this project in french: https://notes.sklein.xyz/Projet%2028/
 
